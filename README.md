@@ -21,12 +21,4 @@ This repo is **my living notebook** — updated daily with hands-on learnings, s
 
 ---
 
-## 📅 Daily Learning Updates
-> I write **everything I learn each day** — successes, failures, small wins, and notes.  
-
-```text
-[YYYY-MM-DD] - Topic / Experiment / Project
-- What I did today
-- Problems faced & solved
-- Key takeaways
-- Next steps
+## 👨‍🎓 Author - Ayush Trivedi
